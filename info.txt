@@ -1,0 +1,1 @@
+Funkcja konstruująca o cechach klasy
